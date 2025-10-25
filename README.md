@@ -8,3 +8,9 @@
 - Collaborate using GitHub (pull, push, branch, merge).
 - Handle conflicts and create pull requests.
 - Prepare a project for continuous integration.
+
+## Requirements (feature-A) 
+- An active GitHub account. 
+- Git installed. 
+- A code editor (e.g., Visual Studio Code). 
+- A working terminal (bash, cmd, or Git Bash)
