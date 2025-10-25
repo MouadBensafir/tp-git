@@ -9,7 +9,7 @@
 - Handle conflicts and create pull requests.
 - Prepare a project for continuous integration.
 
-## Feature A : Requirement
+## Feature A and B : Requirements / Stack Needed
 - An active GitHub account. 
 - Git installed. 
 - A code editor (e.g., Visual Studio Code). 
